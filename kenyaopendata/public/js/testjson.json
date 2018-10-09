@@ -1,0 +1,40 @@
+{
+
+"p1":{ 
+	"name":"george",
+	"age":25,
+	"company":"techno"
+},
+"p2":{
+	"name":"tom"
+	,"age":23,
+	"company":"techno"
+},
+"p3":{
+	"name":"ken",
+	"age":24,
+	"company":"techno"
+},
+"p4":{
+	"name":"john",
+	"age":26,
+	"company":"techno"
+},
+"p5":{
+	"name":"vin",
+	"age":27,
+	"company":"techno"
+},
+"p6":{
+	"name":"kim",
+	"age":28,
+	"company":"techno"
+},
+"p7":{
+	"name":"george",
+	"age":29,
+	"company":"techno"
+}
+
+
+}
